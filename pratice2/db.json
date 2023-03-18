@@ -1,0 +1,180 @@
+{
+  "products": [
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1676290080_5322405.jpg?format=webp&w=300&dpr=1.3",
+      "title": "Ant-Man: Kang The Conqueror",
+      "category": "male",
+      "price": 999,
+      "id": 2,
+      "discount": 10
+    },
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1676900626_9402475.jpg?format=webp&w=300&dpr=1.3",
+      "title": "Ant-Man: The Wasp",
+      "category": "male",
+      "price": 999,
+      "id": 3,
+      "discount": 18
+    },
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1676717425_6652777.jpg?format=webp&w=300&dpr=1.3",
+      "title": "Solids: Red & Navy",
+      "category": "male",
+      "price": 699,
+      "id": 5,
+      "discount": 20
+    },
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1675507361_8789548.jpg?format=webp&w=300&dpr=1.3",
+      "title": "Solids: Berry",
+      "category": "male",
+      "price": 999,
+      "id": 6,
+      "discount": 23
+    },
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1675162414_9033642.jpg?format=webp&w=300&dpr=1.3",
+      "title": "Solids: Smoke Grey",
+      "category": "male",
+      "price": 899,
+      "id": 7,
+      "discount": 45
+    },
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1675151553_4281225.jpg?format=webp&w=300&dpr=1.3",
+      "title": "Solids: White",
+      "category": "male",
+      "price": 499,
+      "id": 8,
+      "discount": 40
+    },
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1665465984_5970893.jpg?format=webp&w=300&dpr=1.3",
+      "title": "Solids: Black",
+      "category": "female",
+      "price": 899,
+      "id": 9,
+      "discount": 15
+    },
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1668234152_9524525.jpg?format=webp&w=300&dpr=1.3",
+      "title": "Tie Dye: Purple Splash",
+      "category": "female",
+      "price": 1299,
+      "id": 10,
+      "discount": 11
+    },
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1665466007_6917497.jpg?format=webp&w=300&dpr=1.3",
+      "title": "TSS Originals: Peach",
+      "category": "female",
+      "price": 99,
+      "id": 12,
+      "discount": 20
+    },
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1668147058_6825659.jpg?format=webp&w=300&dpr=1.3",
+      "title": "Solids: Sunshine Yellow",
+      "category": "female",
+      "price": 1599,
+      "id": 13,
+      "discount": 70
+    },
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1668059613_7148488.jpg?format=webp&w=300&dpr=1.3",
+      "title": "Kung Fu Panda: Po & Peace",
+      "category": "female",
+      "price": 1499,
+      "id": 14,
+      "discount": 30
+    },
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1666686677_3504050.jpg?format=webp&w=300&dpr=1.3",
+      "title": "TSS Originals: Mint Green",
+      "category": "female",
+      "price": 999,
+      "id": 15,
+      "discount": 15
+    },
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1668877699_6880310.jpg?format=webp&w=300&dpr=1.3",
+      "title": "Powerpuff Girls: Blossom",
+      "category": "female",
+      "price": 1199,
+      "id": 16,
+      "discount": 10
+    },
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1671900411_5732814.jpg?format=webp&w=300&dpr=1.3",
+      "title": "Disney: Happy Daisy",
+      "category": "female",
+      "price": 1699,
+      "id": 17,
+      "discount": 78
+    },
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1663392730_6760497.jpg?format=webp&w=300&dpr=1.3",
+      "title": "Mickey Mouse: Happy Face",
+      "category": "female",
+      "price": 399,
+      "id": 18,
+      "discount": 19
+    },
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1671897825_6354746.jpg?format=webp&w=300&dpr=1.3",
+      "title": "Disney: Pawfect",
+      "category": "female",
+      "price": 749,
+      "id": 19,
+      "discount": 10
+    },
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1669130718_4962842.jpg?format=webp&w=300&dpr=1.3",
+      "title": "Disney: Minnie & Daisy Together",
+      "category": "kids",
+      "price": 499,
+      "id": 20,
+      "discount": 23
+    },
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1661505995_8030226.jpg?format=webp&w=300&dpr=1.3",
+      "title": "Mickey Mouse: Pattern",
+      "category": "kids",
+      "price": 499,
+      "id": 21,
+      "discount": 73
+    },
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1665732674_4147499.jpg?format=webp&w=300&dpr=1.3",
+      "title": "Disney: Floral Print",
+      "category": "kids",
+      "price": 499,
+      "id": 22,
+      "discount": 1
+    },
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1665177784_6012260.jpg?format=webp&w=300&dpr=1.3",
+      "title": "Disney: Mickey Just Chill",
+      "category": "kids",
+      "price": 39,
+      "id": 23,
+      "discount": 2
+    },
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1660840291_2461255.jpg?format=webp&w=300&dpr=1.3",
+      "title": "Disney: Princess Shine Bright",
+      "category": "kids",
+      "price": 399,
+      "id": 24,
+      "discount": 99
+    },
+    {
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1664860404_3417961.jpg?format=webp&w=300&dpr=1.3",
+      "title": "Disney: Mickey Mouse",
+      "category": "kids",
+      "price": 399,
+      "id": 25,
+      "discount": 100
+    }
+  ]
+}
